@@ -3,6 +3,11 @@
  * Create a function named `printName`
  * - that just prints your name on the screen
  */
+function printname(){
+    console.log(`My name is danah`);
+
+}
+printname;
 
 /**
  * Task 2:
@@ -11,6 +16,10 @@
  * - and prints the age on the screen.
  * - Age = current year - birth
  */
+function printAge( age){
+    console.log(`i am ${age}`);
+}
+printAge;
 
 /**
  * Task 3:
